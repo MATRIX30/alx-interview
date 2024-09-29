@@ -9,4 +9,3 @@ def pascal_triangle(n):
     python function to generate the pascal's triangle
     """
     pass
-
